@@ -10,11 +10,15 @@
 > Usage of ./frpscan:
 >   -f string
 >         扫描文件 (default "ip.txt")
+
 >   -o string
 >         输出文件 (default "success.txt")
+
 >   -p string
 >         代理，支持http和socks5
+
 >   -t int
 >         线程 (default 100)
+
 
 ![image-20230122122239116](https://raw.githubusercontent.com/Ggasdfg321/FreeFRP/main/image-20230122122239116.png)
