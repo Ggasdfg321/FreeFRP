@@ -7,6 +7,8 @@
 
 使用方法很简单，默认不需要设置什么参数，只需要把导出来的服务器ip和端口放在ip.txt里面，然后直接运行
 
+fofa指纹：app="frp"
+
 > Usage of ./frpscan:
 >   -f string
 >         扫描文件 (default "ip.txt")
